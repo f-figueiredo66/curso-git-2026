@@ -4,4 +4,10 @@ Este arquivo contém informações adicionais para git
 - Segundo comando
 
 # Comandos mais genéricos
-- comandos estranos
+- comandos estranhos
+
+# Mais comandos!!!
+
+lij kjsdf
+fsfwfdasfasfa
+asfaefasfasfasf
