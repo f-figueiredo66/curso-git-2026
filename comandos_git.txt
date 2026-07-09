@@ -3,4 +3,6 @@ git status - mostra o status do trabalho
 git commit - m "msg" - faz commit do que estava para sercommitado
 git add nome_arquivo - adiciona arquivo para ser commitado
 git log - mostra todo o histórico de commit
+
+fodase
  
